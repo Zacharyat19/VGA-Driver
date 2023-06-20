@@ -3,6 +3,7 @@ A collection of SystemVerilog code, ModelSim results, and block diagrams used fo
 
 This project uses an adruino remote to send a signal to a VGA driver, moving a sprite on a VGA monitor. The driver was made in Quartus Prime and programmed on the DE10-Lite board.
 
-Documentaion: https://docs.google.com/document/d/1LOY9cLPV7NKfceGoI3Rld2Y8A8EOzt1jq6uu1iIRa18/edit?usp=sharing
+Documentaion: [ECE 271 Design Project.pdf](https://github.com/Zacharyat19/ECE-271-Design-Project/files/11798851/ECE.271.Design.Project.pdf)
+
 
 Video: https://www.youtube.com/watch?v=jzHkmGYqdl0
